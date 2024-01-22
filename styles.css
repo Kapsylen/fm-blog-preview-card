@@ -1,0 +1,77 @@
+
+
+.main-frame {
+    position: absolute;
+    top: 170px;
+    margin-left: 20px;
+    background: white;
+    width: 300px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px black;
+    border: solid 1px black;
+}
+
+
+.attribution {
+    margin: 40px;
+}
+
+.header-box {
+    margin-left: 20px;  
+    height: 30px;
+    width: 100px;
+    background-color: #f4d04e;
+}
+h4 {
+    margin-left: 15px;
+}
+
+
+@media only screen and (max-width: 375px) { 
+    
+    .background {
+        background-color: #f4d04e;
+        width: 375px;
+        height: 900px;
+    }
+}
+
+.front-img {
+    width: 270px;
+    height: 300px;
+    margin-left: 15px;  
+    border-radius: 10px;
+}
+
+
+p {
+    margin-left: 20px;  
+}
+
+h2 {
+    margin-left: 20px;  
+}
+
+h3 {
+    margin-left: 20px;  
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.avatar-img {
+    display: flex;
+    margin-left: 15px;
+
+}
+.avatar-name {
+    display: flex;
+
+}
+
